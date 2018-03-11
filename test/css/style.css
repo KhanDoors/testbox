@@ -1,1 +1,43 @@
+body {
+    background-image: url("https://fthmb.tqn.com/Jwe3ZwSZmn7c8HOvgaDMgF6RDtM=/768x0/filters:no_upscale()/jeop_logo_large-58bacf375f9b58af5cb69e2f.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+    }
 
+    #banner {
+        border: 5px solid red;
+        border-style: solid;
+        border-width: 2px 10px 4px 20px;
+        }
+
+    #rightanswer {
+        border: 5px solid red;
+        border-style: solid;
+        border-width: 2px 10px 4px 20px;
+        }
+
+    #timeremaining {
+        border: 5px solid red;
+        border-style: solid;
+        border-width: 2px 10px 4px 20px;
+        }
+
+    #wronganswer {
+        border: 5px solid red;
+        border-style: solid;
+        border-width: 2px 10px 4px 20px;
+        }
+
+    #question {
+        border: 5px solid red;
+        border-style: solid;
+        border-width: 2px 10px 4px 20px;
+        }
+
+    #answers {
+        border: 5px solid red;
+        border-style: solid;
+        border-width: 2px 10px 4px 20px;
+        }
